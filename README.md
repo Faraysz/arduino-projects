@@ -5,7 +5,7 @@ Kumpulan project Arduino sederhana untuk belajar dasar-dasar pemrograman mikroko
 ## 📂 Daftar Project
 
 ## Praktikum Pertama
-![Alt Text](Praktikum.jpg)
+![Alt Text](Praktikum1.jpg)
 
 ### 1. Blink_LED
 Program sederhana untuk membuat LED berkedip menggunakan Arduino.  
